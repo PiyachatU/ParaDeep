@@ -20,13 +20,13 @@ The framework includes pretrained models for heavy (H), light (L), and combined 
 
 Follow these steps to install and run ParaDeep on your machine:
 
+
 ### 1. Clone the Repository
-
-If you're using Git:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/ParaDeep.git
-cd ParaDeep
+   If you're using Git:
+   
+        ```bash
+        git clone https://github.com/YOUR_USERNAME/ParaDeep.git
+        cd ParaDeep
 
 ### 2. Set Up a Python Environment (Recommended)
 Option A: Using Conda
