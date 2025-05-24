@@ -29,10 +29,10 @@ Follow these steps to install and run ParaDeep on your machine:
         cd ParaDeep
 
 ### 2. Set Up a Python Environment (Recommended)
-Option A: Using Conda
+### Option A: Using Conda:
         conda create -n paradeep python=3.9
         conda activate paradeep
-Option B: Using venv
+### Option B: Using venv:
         python -m venv paradeep_env
         source paradeep_env/bin/activate   # macOS/Linux
         paradeep_env\Scripts\activate      # Windows
