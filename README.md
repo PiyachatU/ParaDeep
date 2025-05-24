@@ -38,7 +38,7 @@ Follow these steps to install and run ParaDeep on your machine:
         paradeep_env\Scripts\activate      # Windows
 
 ### 3. Install Python Dependencies
-From the project root folder, run:
+### From the project root folder, run:
     cd ParaDeep
     pip install -r requirements.txt
 
