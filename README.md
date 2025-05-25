@@ -51,5 +51,5 @@ Follow these steps to install and run ParaDeep on your machine:
 > 📝 To use ParaDeep in Google Colab, please remember to  
 > **File → Save a copy in Drive** before running any cells.
 
-🔗 [Click here to open ParaDeep in Colab (opens in new tab)](https://colab.research.google.com/github/PiyachatU/ParaDeep/blob/main/ParaDeep_Colab_Demo.ipynb)
+🔗 [Click here to open ParaDeep in Colab](https://colab.research.google.com/github/PiyachatU/ParaDeep/blob/main/ParaDeep_Colab.ipynb)
 
