@@ -52,6 +52,6 @@ Follow these steps to install and run ParaDeep on your machine:
 Click below to open the notebook in Google Colab and run ParaDeep:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/PiyachatU/ParaDeep/blob/main/ParaDeep_Colab_Demo.ipynb)
+https://colab.research.google.com/github/PiyachatU/ParaDeep/blob/main/ParaDeep_Colab.ipynb)
 
 
