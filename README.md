@@ -47,9 +47,11 @@ Follow these steps to install and run ParaDeep on your machine:
     --model-path saved_models/ParaDeep_HL.pt \
     --input data/sample_input.csv
 
-## ParaDeep in Google Colab
-> 📝 To use ParaDeep in Google Colab, please remember to  
-> **File → Save a copy in Drive** before running any cells.
+## Try ParaDeep in Colab
 
-🔗 [Click here to open ParaDeep in Colab](https://colab.research.google.com/drive/1J5o4Iu4L3pS8sF94ysy4C9lkftSdXp0X?usp=sharing)
+Click below to open the notebook in Google Colab and run ParaDeep:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/PiyachatU/ParaDeep/blob/main/ParaDeep_Colab_Demo.ipynb)
+
 
