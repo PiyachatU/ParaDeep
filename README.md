@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/eb2f6678-281d-4ec3-b9c3-d8325fb787d3" alt="Alt Text" style="width:29%; height:auto;">
+
 # ParaDeep: Sequence-Based Paratope Prediction with BiLSTM-CNN
 
 **ParaDeep** is a lightweight deep learning model for predicting paratope residues (antigen-binding sites) from antibody sequences. It uses a BiLSTM-CNN architecture with learnable embeddings and requires only amino acid sequences — no structural input or large pretrained models.
