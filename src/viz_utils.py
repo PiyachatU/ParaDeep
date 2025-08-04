@@ -18,10 +18,10 @@ def plot_binding_predictions(seq_id, residues, probs, threshold=0.5, output_dir=
 
     for i in above_thresh:
         plt.plot(positions[i], probs[i], 'ro')  # red dot
-        plt.text(positions[i], probs[i] + 0.05, residues[i], ha='center', va='bottom',
+        plt.text(positions[i], 1.05, residues[i], ha='center', va='bottom',
                  fontsize=9, fontweight='bold', rotation=0)
 
-    plt.ylim(0, 1.1)
+    plt.ylim(0, 1.15)
     plt.title(f"ParaDeep {chain_type}_Chain Prediction - {seq_id}")
     plt.xlabel("Residue Position")
     plt.ylabel("Binding Probability")

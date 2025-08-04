@@ -69,12 +69,14 @@ def predict_on_sequences(df, model, encoding="embedding", tag="H", visualize=Tru
             preds = (probs >= 0.5).astype(int).tolist()
 
         valid_len = min(len(seq_raw), MAX_SEQ_LEN)
+        chain_type = row.get("Chain_Type", tag)  # fallback to 'H' or 'L' if not available
 
         for pos, (res, pred) in enumerate(zip(seq[:valid_len], preds[:valid_len]), start=1):
             results.append({
                 "Seq_ID": seq_id,
                 "Residue_Position": pos,
                 "Residue": res,
+                "Chain_Type": chain_type,
                 f"{tag}_Prediction": pred,
                 f"{tag}_Probability": round(probs[pos - 1], 4)
             })
