@@ -65,6 +65,6 @@ https://colab.research.google.com/github/PiyachatU/ParaDeep/blob/main/ParaDeep_C
 
 ParaDeep is also available as a web-based application:
 
-🔗 **ParaDeep App:** [Open ParaDeep Web App](https://paradeep-ams.sys.in.th)
+🔗 **ParaDeep App:** [Open ParaDeep Web App](https://research.ams.cmu.ac.th/site/article?id=211)
 
 The web application provides a user-friendly interface for running sequence-based paratope prediction without requiring local installation.
