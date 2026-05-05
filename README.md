@@ -61,4 +61,10 @@ Click below to open the notebook in Google Colab and run ParaDeep:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/PiyachatU/ParaDeep/blob/main/ParaDeep_Colab.ipynb)
 
+## Web Application
 
+ParaDeep is also available as a web-based application:
+
+🔗 **ParaDeep App:** [Open ParaDeep Web App](https://paradeep-ams.sys.in.th)
+
+The web application provides a user-friendly interface for running sequence-based paratope prediction without requiring local installation.
